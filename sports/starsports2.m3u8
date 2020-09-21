@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,Star Sports 2
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/e88580a7f5cc3f2.m3u8
