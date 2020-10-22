@@ -23,8 +23,8 @@ http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 #ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/94
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/banglavision
 #EXTINF:-1 tvg-id="Bijoy TV" tvg-name="Bijoy TV" tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh",Bijoy TV
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
-#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/771
+#http://10.16.100.203:8082/bangla/bijoytv.m3u8
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/771
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/bijoytv
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="Bangladesh",Boishakhi TV
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/219
@@ -68,12 +68,12 @@ http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/645
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/86
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ekattortv
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://i.imgur.com/vDC50KY.png" group-title="Bangladesh",Ekushe TV
-http://10.16.100.203:8082/bangla/ekusheytv.m3u8
-#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/113
+#http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/113
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ekushetv
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh",Gazi TV
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/122
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/gazitv
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/gazitv
 #EXTINF:-1 tvg-id="Independent TV" tvg-name="Independent TV" tvg-logo="https://i.imgur.com/kejuuQw.png" group-title="Bangladesh",Independent TV
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/648
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/independenttv
