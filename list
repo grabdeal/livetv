@@ -4,99 +4,155 @@
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://i.imgur.com/byq1jlN.png" group-title="Bangladesh",Ananda TV
 https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/anandatv
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh",Asian TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/asiantv.m3u8
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/91
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/asiantv
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh",ATN Bangla
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/atnbangla
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/204
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/atnbangla
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://i.imgur.com/gLBSjvE.png" group-title="Bangladesh",ATN News
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/atnnews
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/221
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/atnnews
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh",Bangla TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/banglatv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/665
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/banglatv
 #EXTINF:-1 tvg-id="Bangla Vision" tvg-name="Bangla Vision" tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh",Bangla Vision
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/banglavision
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/94
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/banglavision
 #EXTINF:-1 tvg-id="Bijoy TV" tvg-name="Bijoy TV" tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh",Bijoy TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/bijoytv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/771
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/bijoytv
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="Bangladesh",Boishakhi TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/boishakhitv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/219
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/boishakhitv
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://i.imgur.com/E4wEagn.png" group-title="Bangladesh",BTV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/btv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/663
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/btv
 #EXTINF:-1 tvg-id="BTV World" tvg-name="BTV World" tvg-logo="https://i.imgur.com/XiBSAHP.png" group-title="Bangladesh",BTV World
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/btvworld
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/664
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/btvworld
 #EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/uT0kyI0.png" group-title="Bangladesh",Channel 9
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channel9
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/104
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channel9
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://i.imgur.com/u2PtA4z.png" group-title="Bangladesh",Channel 24
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channel24
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/103
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channel24
 #EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://i.imgur.com/p0M3dwQ.png" group-title="Bangladesh",Channel i
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channeli
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/643
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channeli
 #EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://i.imgur.com/9bTtgfS.png" group-title="Bangladesh",Channel S
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channelsuk
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channelsuk
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh",DBC News
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/dbcnews
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/646
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/dbcnews
 #EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="Bangladesh",Deepto TV
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/205
 https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/deeptotv
 #EXTINF:-1 tvg-id="Desh TV" tvg-name="Desh TV" tvg-logo="https://i.imgur.com/QZk2eMU.png" group-title="Bangladesh",Desh TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/deshtv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/176
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/deshtv
 #EXTINF:-1 tvg-id="Digi Bangla" tvg-name="Digi Bangla" tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="Bangladesh",Digi Bangla
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/digibangla
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/digibangla
 #EXTINF:-1 tvg-id="Duronto TV" tvg-name="Duronto TV" tvg-logo="https://i.imgur.com/QfFrVFQ.png" group-title="Bangladesh",Duronto TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/durontotv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/645
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/durontotv
 #EXTINF:-1 tvg-id="Ekattor TV" tvg-name="Ekattor TV" tvg-logo="https://i.imgur.com/RmvCdnF.png" group-title="Bangladesh",Ekattor TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ekattortv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/86
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ekattortv
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://i.imgur.com/vDC50KY.png" group-title="Bangladesh",Ekushe TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ekushetv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/113
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ekushetv
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh",Gazi TV
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/122
 https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/gazitv
 #EXTINF:-1 tvg-id="Independent TV" tvg-name="Independent TV" tvg-logo="https://i.imgur.com/kejuuQw.png" group-title="Bangladesh",Independent TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/independenttv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/648
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/independenttv
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh",Jamuna TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/jamunatv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/129
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/jamunatv
 #EXTINF:-1 tvg-id="Maasranga" tvg-name="Maasranga" tvg-logo="https://i.imgur.com/R0ytmyc.png" group-title="Bangladesh",Maasranga
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/maasrangatv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/130
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/maasrangatv
 #EXTINF:-1 tvg-id="Mohona TV" tvg-name="Mohona TV" tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/mohonatv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/769
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/mohonatv
 #EXTINF:-1 tvg-id="My TV" tvg-name="My TV" tvg-logo="https://i.imgur.com/jNwZEs9.png" group-title="Bangladesh",My TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/mytv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/647
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/mytv
 #EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/mycinemabd.jpg?x91288" group-title="Bangladesh",My Cinema
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/mycinema
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/mycinema
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh",NTV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ntv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/142
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ntv
 #EXTINF:-1 tvg-id="NTV (UK)" tvg-name="NTV (UK)" tvg-logo="https://i.imgur.com/fOgT3XL.png" group-title="Bangladesh",NTV (UK)
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ntvuk
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ntvuk
 #EXTINF:-1 tvg-id="NTV (US)" tvg-name="NTV (US)" tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh",NTV (US)
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ntv
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ntv
 #EXTINF:-1 tvg-id="Nagorik TV" tvg-name="Nagorik TV" tvg-logo="https://i.imgur.com/HI2UAS4.png" group-title="Bangladesh",Nagorik TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/nagoriktv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/136
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/nagoriktv
 #EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://i.imgur.com/5xUXZkb.png" group-title="Bangladesh",News 24
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/news24
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/141
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/news24
 #EXTINF:-1 tvg-id="NRB TV" tvg-name="NRB TV" tvg-logo="https://i.imgur.com/b1hevZU.png" group-title="Bangladesh",NRB TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/nrbtv
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/nrbtv
 #EXTINF:-1 tvg-id="NRB Connect" tvg-name="NRB Connect" tvg-logo="https://i.imgur.com/IuS5N3E.png" group-title="Bangladesh",NRB Connect
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/nrbconnect
+http://vod.beeiptv.com:8081/NRB/nrbconnect/playlist.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/nrbconnect
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh",RTV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/rtv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/145
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/rtv
 #EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="https://i.imgur.com/AI2Xkwl.png" group-title="Bangladesh",SATV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/satv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/220
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/satv
 #EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://i.imgur.com/25mm1w7.png" group-title="Bangladesh",Somoy TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/somoytv
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/146
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/somoytv
 #EXTINF:-1 tvg-id="Sangshad Bangladesh" tvg-name="Sangshad Bangladesh" tvg-logo="https://i.imgur.com/assu2Bx.png" group-title="Bangladesh",Sangshad Bangladesh
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/sangshadbangladesh
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/sangshadbangladesh
 
 #KolkataBangla
 #EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://i.imgur.com/rTP9G23.png" group-title="Kolkata Bangla",Akash Aath
-https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/akashaath
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
+#https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/akashaath
 #EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
-https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/colorsbangla
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,Colors Bangla
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/106
+#https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/colorsbangla
 #EXTINF:-1 tvg-id="Ruposhi Bangla" tvg-name="Ruposhi Bangla" tvg-logo="https://i.imgur.com/Wtm36U4.png" group-title="Kolkata Bangla",Ruposhi Bangla
-https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/ruposhibangla
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/801
+#https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/ruposhibangla
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/158HlVC.png" group-title="Kolkata Bangla",Sony Aath
-https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/sonyaath
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/191
+#https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/sonyaath
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla",Star Jalsha
-https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/starjalsha
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/193
+#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/863
+#https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/starjalsha
 #EXTINF:-1 tvg-id="Jalsha Movies" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/JalshaMovies.png" group-title="Kolkata Bangla",Jalsha Movies
-https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/jalshamovies
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/203
+#https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/jalshamovies
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/9UFJ2nd.png" group-title="Kolkata Bangla",Zee Bangla
-https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/zeebangla
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/865
+#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/192
+#http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/zeebangla
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/oNBvs6r.png" group-title="Kolkata Bangla",Zee Bangla Cinema
-https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/zeebanglacinema
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/824
+#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/182
+#http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+#https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/zeebanglacinema
 
 #Islamic
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
