@@ -76,7 +76,7 @@ https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/rtv
 #EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="https://i.imgur.com/AI2Xkwl.png" group-title="Bangladesh",SATV
 https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/satv
 #EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://i.imgur.com/25mm1w7.png" group-title="Bangladesh",Somoy TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/somoytv.m3u8
+https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/somoytv
 #EXTINF:-1 tvg-id="Sangshad Bangladesh" tvg-name="Sangshad Bangladesh" tvg-logo="https://i.imgur.com/assu2Bx.png" group-title="Bangladesh",Sangshad Bangladesh
 https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/sangshadbangladesh
 
