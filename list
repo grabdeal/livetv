@@ -4,22 +4,27 @@
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://i.imgur.com/byq1jlN.png" group-title="Bangladesh",Ananda TV
 https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/anandatv
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh",Asian TV
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/91
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/91
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/asiantv
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh",ATN Bangla
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/204
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/204
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/atnbangla
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://i.imgur.com/gLBSjvE.png" group-title="Bangladesh",ATN News
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/221
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/atnnews
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh",Bangla TV
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/665
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/665
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/banglatv
 #EXTINF:-1 tvg-id="Bangla Vision" tvg-name="Bangla Vision" tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh",Bangla Vision
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/94
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/94
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/banglavision
 #EXTINF:-1 tvg-id="Bijoy TV" tvg-name="Bijoy TV" tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh",Bijoy TV
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/771
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/771
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/bijoytv
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="Bangladesh",Boishakhi TV
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/219
@@ -37,13 +42,15 @@ http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/104
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/103
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channel24
 #EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://i.imgur.com/p0M3dwQ.png" group-title="Bangladesh",Channel i
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/643
+http://10.16.100.203:8082/bangla/i_Channel.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/643
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channeli
 #EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://i.imgur.com/9bTtgfS.png" group-title="Bangladesh",Channel S
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/channelsuk
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh",DBC News
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/646
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/646
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/dbcnews
 #EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="Bangladesh",Deepto TV
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/205
@@ -61,7 +68,8 @@ http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/645
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/86
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ekattortv
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://i.imgur.com/vDC50KY.png" group-title="Bangladesh",Ekushe TV
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/113
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/113
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/ekushetv
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh",Gazi TV
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/122
@@ -70,7 +78,8 @@ https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/gazitv
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/648
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/independenttv
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh",Jamuna TV
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/129
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#ttp://digiiptv.ddns.net:25461/restream20/FR2csGYizY/129
 #https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/jamunatv
 #EXTINF:-1 tvg-id="Maasranga" tvg-name="Maasranga" tvg-logo="https://i.imgur.com/R0ytmyc.png" group-title="Bangladesh",Maasranga
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/130
@@ -130,17 +139,17 @@ http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/106
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/801
 #https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/ruposhibangla
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/158HlVC.png" group-title="Kolkata Bangla",Sony Aath
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/191
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/191
 #https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/sonyaath
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla",Star Jalsha
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#ttp://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/193
-#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/863
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/863
 #https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/starjalsha
 #EXTINF:-1 tvg-id="Jalsha Movies" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/JalshaMovies.png" group-title="Kolkata Bangla",Jalsha Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/203
+#ttp://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/203
 #https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/jalshamovies
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/9UFJ2nd.png" group-title="Kolkata Bangla",Zee Bangla
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/865
@@ -149,8 +158,7 @@ http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/865
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/zeebangla
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/oNBvs6r.png" group-title="Kolkata Bangla",Zee Bangla Cinema
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/824
-#http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/182
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/182
 #http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #https://raw.githubusercontent.com/grabdeal/livetv/master/kolkata/zeebanglacinema
 
@@ -313,7 +321,7 @@ http://livetv.grabdeal.xyz/stargold
 #EXTINF:-1 tvg-id="Star Gold 2" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Movies",Star Gold 2
 http://livetv.grabdeal.xyz/stargold2
 #EXTINF:-1 tvg-id="Zee Cinema" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Movies",Zee Cinema
-http://livetv.grabdeal.xyz/zeecinema
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/824
 #EXTINF:-1 tvg-id="Zee Bollywood" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="Movies",Zee Bollywood
 http://livetv.grabdeal.xyz/zeebollywood
 #EXTINF:-1 tvg-id="Zee Drama" tvg-name="Zee Theatre" tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33_400x400.jpg" group-title="Movies",Zee Drama
