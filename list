@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://i.imgur.com/byq1jlN.png" group-title="Bangladesh",Ananda TV
 https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/anandatv
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh",Asian TV
-https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/asiantv
+https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/asiantv.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh",ATN Bangla
 https://raw.githubusercontent.com/grabdeal/livetv/master/bangladesh/atnbangla
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://i.imgur.com/gLBSjvE.png" group-title="Bangladesh",ATN News
