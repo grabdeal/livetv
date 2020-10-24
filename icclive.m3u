@@ -1,0 +1,101 @@
+#Bangladesh TV
+#EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh",Asian TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh",ATN Bangla
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh",Bangla TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-1 tvg-id="Bangla Vision" tvg-name="Bangla Vision" tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh",Bangla Vision
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-1 tvg-id="Bijoy TV" tvg-name="Bijoy TV" tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh",Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="Bangladesh",Boishakhi TV
+http://10.16.100.205/hls/boishakhi_720.m3u8
+#EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://i.imgur.com/p0M3dwQ.png" group-title="Bangladesh",Channel i
+http://10.16.100.203:8082/bangla/i_Channel.m3u8
+#EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://i.imgur.com/9bTtgfS.png" group-title="Bangladesh",Channel S
+https://ahmadabdullahrifat.shortcm.li/channelsuk
+#EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh",DBC News
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="Bangladesh",Deepto TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1 tvg-id="Digi Bangla" tvg-name="Digi Bangla" tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="Bangladesh",Digi Bangla
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://i.imgur.com/vDC50KY.png" group-title="Bangladesh",Ekushe TV
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh",Gazi TV
+http://10.16.100.201/hindi/bdgtv.m3u8
+#EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh",Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1 tvg-id="Mohona TV" tvg-name="Mohona TV" tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+#EXTINF:-1 tvg-id="My TV" tvg-name="My TV" tvg-logo="https://i.imgur.com/jNwZEs9.png" group-title="Bangladesh",My TV
+http://10.16.100.205/hls/my_tv_720.m3u8
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh",NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
+#EXTINF:-1 tvg-id="Nagorik TV" tvg-name="Nagorik TV" tvg-logo="https://i.imgur.com/HI2UAS4.png" group-title="Bangladesh",Nagorik TV
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh",RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+
+#KolkataBangla
+#EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://i.imgur.com/rTP9G23.png" group-title="Kolkata Bangla",Akash Aath
+http://10.16.100.204/hls/akash_aath_720.m3u8
+#EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
+http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla",Star Jalsha
+http://10.16.100.204/hls/star_jalsha.m3u8
+#EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/9UFJ2nd.png" group-title="Kolkata Bangla",Zee Bangla
+http://10.16.100.204/hls/zee_bangla_720.m3u8
+
+#Hindi
+#EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi",& TV
+http://10.16.100.204/hls/&tv.m3u8
+#EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="Hindi",Colors
+http://10.16.100.201/hindi/colorsin.m3u8
+#EXTINF:-1 tvg-id="Sony TV" tvg-name="Sony TV" tvg-logo="https://i.imgur.com/45hPX07.jpg" group-title="Hindi",Sony TV
+http://10.16.100.204/hls/sony_tv_720.m3u8
+#EXTINF:-1 tvg-id="Star Plus" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="Hindi",Star Plus
+http://10.16.100.204/hls/star_plus.m3u8
+#EXTINF:-1 tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="Hindi",Zee TV
+http://10.16.100.204/hls/Zee_TV_720.m3u8
+
+#Movies
+#EXTINF:-1 tvg-id="& Pic" tvg-name="& Pic" tvg-logo="" group-title="Movies",& Pic
+http://10.16.100.204/hls/&_pic.m3u8
+#EXTINF:-1 tvg-id="Wow Cinema" tvg-name="Wow Cinema" tvg-logo="" group-title="Movies",Wow Cinema
+http://10.16.100.201/hindi/wow_cinema.m3u8
+
+#Music
+#EXTINF:-1 tvg-id="Sangeet Bangla" tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/SangeetBangla.png" group-title="Music",Sangeet Bangla
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1 tvg-id="9xM" tvg-name="9xM" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/9xM.png" group-title="Music",9xM
+http://10.16.100.204/hls/9xm_720.m3u8
+#EXTINF:-1 tvg-id="Dhoom Music" tvg-name="Dhoom Music" tvg-logo="" group-title="Music",Dhoom Music
+http://10.16.100.201/hindi/dhoom_music.m3u8
+#EXTINF:-1 tvg-id="MTunes" tvg-name="MTunes" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/B4UMusic.png" group-title="Music",MTunes
+http://10.16.100.207:8082/sports/mtuness.m3u8
+
+#Islamic
+#EXTINF:-1 tvg-id="Madani Channel" tvg-name="Madani TV English" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion",Madani Channel
+http://10.16.100.207:8082/sports/sunnahtv.m3u8
+#EXTINF:-1 tvg-id="Makkah TV" tvg-name="Makkah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MakkaTV" group-title="Religion",Makkah TV
+http://10.16.100.207:8082/sports/qurantv.m3u8
+#EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Religion",Peace TV Bangla
+http://10.16.100.207:8082/sports/peacetv.m3u8
+
+#Sports
+#EXTINF:-1 tvg-id="IPL 20 (1)" tvg-name="IPL 20 (1)" tvg-logo="http://10.16.100.244/files/ipl.png" group-title="Sports",IPL 20 (1)
+http://10.16.100.201/hindi/bdsp2in.m3u8
+#EXTINF:-1 tvg-id="IPL 20 (2)" tvg-name="IPL 20 (2)" tvg-logo="http://10.16.100.244/files/ipl.png" group-title="Sports",IPL 20 (2)
+http://10.16.100.203:8082/bangla/spin2bd.m3u8
+#EXTINF:-1 tvg-id="IPL 20 (3)" tvg-name="IPL 20 (3)" tvg-logo="http://10.16.100.244/files/ipl.png" group-title="Sports",IPL 20 (3)
+http://10.16.100.207:8082/sports/insp2chbd.m3u8
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports",Sony Ten 1
+http://10.16.100.207:8082/sports/ten1_720.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports",Star Sports 2
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports",Star Sports Select 1
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports",Star Sports Select 2
+http://10.16.100.207:8082/sports/ssselect2.m3u8
