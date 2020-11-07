@@ -195,14 +195,14 @@ https://ahmadabdullahrifat.shortcm.li/discoveryscience
 https://ahmadabdullahrifat.shortcm.li/discoveryturbo
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/History2.png" group-title="Infotainment",History
 https://ahmadabdullahrifat.shortcm.li/historychannel
-#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/History2.png" group-title="Infotainment",History 2
-https://ahmadabdullahrifat.shortcm.li/history2
+#EXTINF:-1 tvg-id="History 18" tvg-name="History 18" tvg-logo="https://wxca.cf/images/a/UZlaShWkQF.png" group-title="Infotainment",History 18
+https://ahmadabdullahrifat.shortcm.li/history18
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_423.png?mlgvnOAdNFDNh2Tpmx_TyDDuwJ8gZ12q&itok=LtXFZiqH" group-title="Infotainment",Investigation Discovery
 https://ahmadabdullahrifat.shortcm.li/investigationdiscovery
 #EXTINF:-1 tvg-id="NASA TV" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NASATV.png" group-title="Infotainment",NASA TV
 https://ahmadabdullahrifat.shortcm.li/nasatv
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NationalGeographic.png" group-title="Infotainment",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+https://ahmadabdullahrifat.shortcm.li/natgeo
 #EXTINF:-1 tvg-id="Nat Geo People" tvg-name="Nat Geo People" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NatGeoPeople.png" group-title="Infotainment",Nat Geo People
 https://ahmadabdullahrifat.shortcm.li/natgeopeople
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NatGeoWild.png" group-title="Infotainment",Nat Geo Wild
