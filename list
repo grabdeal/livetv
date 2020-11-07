@@ -116,6 +116,66 @@ https://ahmadabdullahrifat.shortcm.li/makkahlive
 #EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Religion",Peace TV Bangla
 https://ahmadabdullahrifat.shortcm.li/peacetvbangla
 
+#Sports
+#EXTINF:-1 tvg-id="Live Sports Event 1" tvg-name="Live Sports Event 1" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 1
+https://ahmadabdullahrifat.shortcm.li/livesportsevent1
+#EXTINF:-1 tvg-id="Live Sports Event 2" tvg-name="Live Sports Event 2" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 2
+https://ahmadabdullahrifat.shortcm.li/livesportsevent2
+#EXTINF:-1 tvg-id="Live Sports Event 3" tvg-name="Live Sports Event 3" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 3
+https://ahmadabdullahrifat.shortcm.li/livesportsevent3
+#EXTINF:-1 tvg-id="Live Sports Event 4" tvg-name="Live Sports Event 4" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 4
+https://ahmadabdullahrifat.shortcm.li/livesportsevent4
+#EXTINF:-1 tvg-id="Live Sports Event 5" tvg-name="Live Sports Event 5" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 5
+https://ahmadabdullahrifat.shortcm.li/livesportsevent5
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports",Sony Ten 1
+https://ahmadabdullahrifat.shortcm.li/sonyten1
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2.png" group-title="Sports",Sony Ten 2
+https://ahmadabdullahrifat.shortcm.li/sonyten2
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen3.png" group-title="Sports",Sony Ten 3
+https://ahmadabdullahrifat.shortcm.li/sonyten3
+#EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonySix.png" group-title="Sports",Sony Six
+https://ahmadabdullahrifat.shortcm.li/sonysix
+#EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
+http://103.58.73.26/streams/110/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/94768_54049_starsports1.jpg" group-title="Sports",Star Sports 1
+#http://stream-e30453a4b.nmbs.top/m3u/Sports/bd24d5a7e3.m3u8
+https://ahmadabdullahrifat.shortcm.li/starsports1
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports",Star Sports 2
+https://ahmadabdullahrifat.shortcm.li/starsports2
+#EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/19326_32980_starsports3.jpg" group-title="Sports",Star Sports 3
+https://ahmadabdullahrifat.shortcm.li/starsports3
+#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports",Star Sports Select 1
+https://ahmadabdullahrifat.shortcm.li/starsportsselect1
+#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports",Star Sports Select 2
+https://ahmadabdullahrifat.shortcm.li/starsportsselect2
+#EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/26961_30968_skyaction.jpg" group-title="Sports",Sky Sport Action
+https://ahmadabdullahrifat.shortcm.li/skysportsaction
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/59946_17287_skyarena.jpg" group-title="Sports",Sky Sport Arena
+https://ahmadabdullahrifat.shortcm.li/skysportsarena
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/97531_skycricket.jpg" group-title="Sports",Sky Sports Cricket
+https://ahmadabdullahrifat.shortcm.li/skysportscricket
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/51391_13208_skyf1new.jpg" group-title="Sports",Sky Sport F1
+https://ahmadabdullahrifat.shortcm.li/skysportsf1
+#EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49678_3243_skyfootball.jpg" group-title="Sports",Sky Sport Football
+#EXTVLCOPT: network-caching=1000
+https://ahmadabdullahrifat.shortcm.li/skysportsfootball
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/46453_40768_skygolf.jpg" group-title="Sports",Sky Sport Golf
+#EXTVLCOPT: network-caching=1000
+https://ahmadabdullahrifat.shortcm.li/skysportsgolf
+#EXTINF:-1 tvg-id="Sky Sport Main Event" tvg-name="Sky Sport Main Event" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93329_43621_skymainevent.jpg" group-title="Sports",Sky Sport Main Event
+https://ahmadabdullahrifat.shortcm.li/skysportsmainevent
+#EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/14895_65882_skymixnew.jpg" group-title="Sports",Sky Sport Mix
+#EXTVLCOPT: network-caching=1000
+https://ahmadabdullahrifat.shortcm.li/skysportsmix
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/86525_73040_skynewsnew.jpg" group-title="Sports",Sky Sport News
+https://ahmadabdullahrifat.shortcm.li/skysportsnews
+#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93885_89284_skyleauge.jpg" group-title="Sports",Sky Sport Premier League
+https://ahmadabdullahrifat.shortcm.li/skysportspremierleague
+#EXTINF:-1 tvg-id="Ten Sports" tvg-name="Ten Sports" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
+https://ahmadabdullahrifat.shortcm.li/tensports
+#EXTINF:-1 tvg-id="Titas Sports" tvg-name="Titas Sports" tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",Titas Sports
+https://ahmadabdullahrifat.shortcm.li/titassports
+
 #Infotainment
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/AnimalPlanet.png" group-title="Infotainment",Animal Planet
 https://ahmadabdullahrifat.shortcm.li/animalplanet
@@ -153,71 +213,6 @@ https://ahmadabdullahrifat.shortcm.li/sonybbcearth
 https://ahmadabdullahrifat.shortcm.li/tlc
 #EXTINF:-1 tvg-id="RT Documentary" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/RTDocumentary.png" group-title="Infotainment",RT Documentary
 https://ahmadabdullahrifat.shortcm.li/rtdocumentary
-
-#Sports
-#EXTINF:-1 tvg-id="Live Sports Event 1" tvg-name="Live Sports Event 1" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 1
-https://ahmadabdullahrifat.shortcm.li/livesportsevent1
-#EXTINF:-1 tvg-id="Live Sports Event 2" tvg-name="Live Sports Event 2" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 2
-https://ahmadabdullahrifat.shortcm.li/livesportsevent2
-#EXTINF:-1 tvg-id="Live Sports Event 3" tvg-name="Live Sports Event 3" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 3
-https://ahmadabdullahrifat.shortcm.li/livesportsevent3
-#EXTINF:-1 tvg-id="Live Sports Event 4" tvg-name="Live Sports Event 4" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 4
-https://ahmadabdullahrifat.shortcm.li/livesportsevent4
-#EXTINF:-1 tvg-id="Live Sports Event 5" tvg-name="Live Sports Event 5" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 5
-https://ahmadabdullahrifat.shortcm.li/livesportsevent5
-#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports",Sony Ten 1
-https://ahmadabdullahrifat.shortcm.li/sonyten1
-#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2.png" group-title="Sports",Sony Ten 2
-https://ahmadabdullahrifat.shortcm.li/sonyten2
-#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen3.png" group-title="Sports",Sony Ten 3
-https://ahmadabdullahrifat.shortcm.li/sonyten3
-#EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonySix.png" group-title="Sports",Sony Six
-https://ahmadabdullahrifat.shortcm.li/sonysix
-#EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
-http://103.58.73.26/streams/110/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/94768_54049_starsports1.jpg" group-title="Sports",Star Sports 1
-#http://stream-e30453a4b.nmbs.top/m3u/Sports/bd24d5a7e3.m3u8
-https://ahmadabdullahrifat.shortcm.li/starsports1
-#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports",Star Sports 2
-https://ahmadabdullahrifat.shortcm.li/starsports2
-#EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/19326_32980_starsports3.jpg" group-title="Sports",Star Sports 3
-https://ahmadabdullahrifat.shortcm.li/starsports3
-#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports",Star Sports Select 1
-https://ahmadabdullahrifat.shortcm.li/starsportsselect1
-#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports",Star Sports Select 2
-https://ahmadabdullahrifat.shortcm.li/starsportsselect2
-#EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/26961_30968_skyaction.jpg" group-title="Sports",Sky Sport Action
-#EXTVLCOPT: network-caching=1000
-https://ahmadabdullahrifat.shortcm.li/skysportsaction
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/59946_17287_skyarena.jpg" group-title="Sports",Sky Sport Arena
-#EXTVLCOPT: network-caching=1000
-https://ahmadabdullahrifat.shortcm.li/skysportsarena
-#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/97531_skycricket.jpg" group-title="Sports",Sky Sports Cricket
-https://ahmadabdullahrifat.shortcm.li/skysportscricket
-#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/51391_13208_skyf1new.jpg" group-title="Sports",Sky Sport F1
-#EXTVLCOPT: network-caching=1000
-https://ahmadabdullahrifat.shortcm.li/skysportsf1
-#EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49678_3243_skyfootball.jpg" group-title="Sports",Sky Sport Football
-#EXTVLCOPT: network-caching=1000
-https://ahmadabdullahrifat.shortcm.li/skysportsfootball
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/46453_40768_skygolf.jpg" group-title="Sports",Sky Sport Golf
-#EXTVLCOPT: network-caching=1000
-https://ahmadabdullahrifat.shortcm.li/skysportsgolf
-#EXTINF:-1 tvg-id="Sky Sport Main Event" tvg-name="Sky Sport Main Event" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93329_43621_skymainevent.jpg" group-title="Sports",Sky Sport Main Event
-#EXTVLCOPT: network-caching=1000
-https://ahmadabdullahrifat.shortcm.li/skysportsmainevent
-#EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/14895_65882_skymixnew.jpg" group-title="Sports",Sky Sport Mix
-#EXTVLCOPT: network-caching=1000
-https://ahmadabdullahrifat.shortcm.li/skysportsmix
-#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/86525_73040_skynewsnew.jpg" group-title="Sports",Sky Sport News
-#EXTVLCOPT: network-caching=1000
-https://ahmadabdullahrifat.shortcm.li/skysportsnews
-#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93885_89284_skyleauge.jpg" group-title="Sports",Sky Sport Premier League
-https://ahmadabdullahrifat.shortcm.li/skysportspremierleague
-#EXTINF:-1 tvg-id="Ten Sports" tvg-name="Ten Sports" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
-https://ahmadabdullahrifat.shortcm.li/tensports
-#EXTINF:-1 tvg-id="Titas Sports" tvg-name="Titas Sports" tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",Titas Sports
-https://ahmadabdullahrifat.shortcm.li/titassports
 
 #Hindi
 #EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi",& TV
