@@ -6,7 +6,7 @@ https://ahmadabdullahrifat.shortcm.li/anandatv
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh",Asian TV
 http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/19742.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh",ATN Bangla
-http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/17804.m3u8
+https://ahmadabdullahrifat.shortcm.li/atnbangla
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://i.imgur.com/gLBSjvE.png" group-title="Bangladesh",ATN News
 http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/17805.m3u8
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh",Bangla TV
@@ -24,23 +24,23 @@ http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/25377.m3u8
 #EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/uT0kyI0.png" group-title="Bangladesh",Channel 9
 http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/18679.m3u8
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://i.imgur.com/u2PtA4z.png" group-title="Bangladesh",Channel 24
-https://ahmadabdullahrifat.shortcm.li/channel24
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/22991.m3u8
 #EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://i.imgur.com/p0M3dwQ.png" group-title="Bangladesh",Channel i
-https://ahmadabdullahrifat.shortcm.li/channeli
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/22990.m3u8
 #EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://i.imgur.com/9bTtgfS.png" group-title="Bangladesh",Channel S
-https://ahmadabdullahrifat.shortcm.li/channelsuk
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/22989.m3u8
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh",DBC News
-https://ahmadabdullahrifat.shortcm.li/dbcnews
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/22988.m3u8
 #EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="Bangladesh",Deepto TV
-https://ahmadabdullahrifat.shortcm.li/deeptotv
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/26364.m3u8
 #EXTINF:-1 tvg-id="Desh TV" tvg-name="Desh TV" tvg-logo="https://i.imgur.com/QZk2eMU.png" group-title="Bangladesh",Desh TV
-https://ahmadabdullahrifat.shortcm.li/deshtv
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/22986.m3u8
 #EXTINF:-1 tvg-id="Digi Bangla" tvg-name="Digi Bangla" tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="Bangladesh",Digi Bangla
-https://ahmadabdullahrifat.shortcm.li/digibangla
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/22983.m3u8
 #EXTINF:-1 tvg-id="Duronto TV" tvg-name="Duronto TV" tvg-logo="https://i.imgur.com/QfFrVFQ.png" group-title="Bangladesh",Duronto TV
-https://ahmadabdullahrifat.shortcm.li/durontotv
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/18694.m3u8
 #EXTINF:-1 tvg-id="Ekattor TV" tvg-name="Ekattor TV" tvg-logo="https://i.imgur.com/RmvCdnF.png" group-title="Bangladesh",Ekattor TV
-https://ahmadabdullahrifat.shortcm.li/ekattortv
+http://doom2-iptv.net:2082/live/rifat/fyY8AC2CdD/25386.m3u8
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://i.imgur.com/vDC50KY.png" group-title="Bangladesh",Ekushe TV
 https://ahmadabdullahrifat.shortcm.li/ekushetv
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh",Gazi TV
@@ -117,16 +117,6 @@ https://ahmadabdullahrifat.shortcm.li/makkahlive
 https://ahmadabdullahrifat.shortcm.li/peacetvbangla
 
 #Sports
-#EXTINF:-1 tvg-id="Live Sports Event 1" tvg-name="Live Sports Event 1" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 1
-https://ahmadabdullahrifat.shortcm.li/livesportsevent1
-#EXTINF:-1 tvg-id="Live Sports Event 2" tvg-name="Live Sports Event 2" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 2
-https://ahmadabdullahrifat.shortcm.li/livesportsevent2
-#EXTINF:-1 tvg-id="Live Sports Event 3" tvg-name="Live Sports Event 3" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 3
-https://ahmadabdullahrifat.shortcm.li/livesportsevent3
-#EXTINF:-1 tvg-id="Live Sports Event 4" tvg-name="Live Sports Event 4" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 4
-https://ahmadabdullahrifat.shortcm.li/livesportsevent4
-#EXTINF:-1 tvg-id="Live Sports Event 5" tvg-name="Live Sports Event 5" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 5
-https://ahmadabdullahrifat.shortcm.li/livesportsevent5
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports",Sony Ten 1
 https://ahmadabdullahrifat.shortcm.li/sonyten1
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2.png" group-title="Sports",Sony Ten 2
@@ -616,7 +606,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="PUBLIC MUSIC" tvg-name="PUBLIC MUSIC" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/PUBLICMUSIC.png" group-title="Music",PUBLIC MUSIC
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 
-###### Option 2 ######
+##################### Option 2 #####################
+
 #Bangladesh TV
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://i.imgur.com/byq1jlN.png" group-title="Bangladesh",Ananda TV
 https://ahmadabdullahrifat.shortcm.li/anandatv
@@ -734,16 +725,6 @@ https://ahmadabdullahrifat.shortcm.li/makkahlive
 https://ahmadabdullahrifat.shortcm.li/peacetvbangla
 
 #Sports
-#EXTINF:-1 tvg-id="Live Sports Event 1" tvg-name="Live Sports Event 1" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 1
-https://ahmadabdullahrifat.shortcm.li/livesportsevent1
-#EXTINF:-1 tvg-id="Live Sports Event 2" tvg-name="Live Sports Event 2" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 2
-https://ahmadabdullahrifat.shortcm.li/livesportsevent2
-#EXTINF:-1 tvg-id="Live Sports Event 3" tvg-name="Live Sports Event 3" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 3
-https://ahmadabdullahrifat.shortcm.li/livesportsevent3
-#EXTINF:-1 tvg-id="Live Sports Event 4" tvg-name="Live Sports Event 4" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 4
-https://ahmadabdullahrifat.shortcm.li/livesportsevent4
-#EXTINF:-1 tvg-id="Live Sports Event 5" tvg-name="Live Sports Event 5" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 5
-https://ahmadabdullahrifat.shortcm.li/livesportsevent5
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports",Sony Ten 1
 https://ahmadabdullahrifat.shortcm.li/sonyten1
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2.png" group-title="Sports",Sony Ten 2
