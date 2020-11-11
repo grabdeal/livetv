@@ -217,8 +217,6 @@ https://ahmadabdullahrifat.shortcm.li/rtdocumentary
 #Hindi
 #EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi",& TV
 https://ahmadabdullahrifat.shortcm.li/&tv
-#EXTINF:-1 tvg-id="& Prive" tvg-name="& Prive" tvg-logo="https://i.imgur.com/UiJO3dl.jpg" group-title="Hindi",& Prive
-https://ahmadabdullahrifat.shortcm.li/&prive
 #EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="Hindi",Colors
 https://ahmadabdullahrifat.shortcm.li/colorshindi
 #EXTINF:-1 tvg-id="Sony Pal" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/9lOaU2P.jpg" group-title="Hindi",Sony Pal
@@ -239,46 +237,44 @@ https://ahmadabdullahrifat.shortcm.li/zeeaction
 https://ahmadabdullahrifat.shortcm.li/zeeanmol
 #EXTINF:-1 tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="Hindi",Zee TV
 https://ahmadabdullahrifat.shortcm.li/zeetv
-#EXTINF:-1 tvg-id="Zee World" tvg-name="Zee World" tvg-logo="https://uploads.tapatalk-cdn.com/20180221/f9fec20af016ed1f4a18136cfa76b96b.jpg" group-title="Hindi",Zee World
-https://ahmadabdullahrifat.shortcm.li/zeeworld
 
 #Movies
-#EXTINF:-1 tvg-id="Aamar Cinema" tvg-name="Aamar Cinema" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/p960x960/93044528_640244499874017_5814055812225564672_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=POcQNZtRQhgAX_Kscyk&_nc_ht=scontent.fdac74-1.fna&_nc_tp=6&oh=8c81871c4b940ebf9ed8474b42a36af7&oe=5ED7542E" group-title="Movies",Aamar Cinema
-https://ahmadabdullahrifat.shortcm.li/aamarcinema
-#EXTINF:-1 tvg-id="Tollywood" tvg-name="Tollywood" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/1174587_223646891121587_937526636_n.jpg?_nc_cat=105&_nc_sid=85a577&_nc_ohc=RfJWuQQzJFwAX_5wWsL&_nc_ht=scontent.fdac74-1.fna&oh=709520ca2e4ab84d5adc7de057db8f7b&oe=5ED78FBA" group-title="Movies",Tollywood
-https://ahmadabdullahrifat.shortcm.li/tollywood
 #EXTINF:-1 tvg-id="Star Gold" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Movies",Star Gold
 https://ahmadabdullahrifat.shortcm.li/stargold
 #EXTINF:-1 tvg-id="Star Gold 2" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Movies",Star Gold 2
 https://ahmadabdullahrifat.shortcm.li/stargold2
 #EXTINF:-1 tvg-id="Zee Anmol Cinema" tvg-name="Zee Anmol Cinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="Movies",Zee Anmol Cinema
 https://ahmadabdullahrifat.shortcm.li/zeeanmolcinema
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Movies",Zee Cinema
-https://ahmadabdullahrifat.shortcm.li/zeecinema
 #EXTINF:-1 tvg-id="Zee Bollywood" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="Movies",Zee Bollywood
 https://ahmadabdullahrifat.shortcm.li/zeebollywood
-#EXTINF:-1 tvg-id="Zee Drama" tvg-name="Zee Theatre" tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33_400x400.jpg" group-title="Movies",Zee Drama
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Movies",Zee Cinema
+https://ahmadabdullahrifat.shortcm.li/zeecinema
+#EXTINF:-1 tvg-id="Zee Theatre" tvg-name="Zee Theatre" tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33_400x400.jpg" group-title="Movies",Zee Theatre
 https://ahmadabdullahrifat.shortcm.li/zeetheatre
+#EXTINF:-1 tvg-id="& Prive" tvg-name="& Prive" tvg-logo="https://i.imgur.com/UiJO3dl.jpg" group-title="Movies",& Prive
+https://ahmadabdullahrifat.shortcm.li/&prive
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/AXN" group-title="Movies",AXN
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://ahmadabdullahrifat.shortcm.li/axn
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5Xr5shbWxObTKgXpxAg3sSFQKxM42pHD_rA&usqp=CAU" group-title="Movies",Fox
+https://ahmadabdullahrifat.shortcm.li/foxchannel
 #EXTINF:-1 tvg-id="Fox Action Movies" tvg-name="Fox Action Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/FoxActionMovies" group-title="Movies",Fox Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+https://ahmadabdullahrifat.shortcm.li/foxactionmovies
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://www.logotypes101.com/logos/464/ED57746DA0254FFEB18443A95B84414B/fox-life.png" group-title="Infotainment",Fox Life
-https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+https://ahmadabdullahrifat.shortcm.li/foxlife
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Movies",HBO
-http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
+https://ahmadabdullahrifat.shortcm.li/hbo
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Movies",HBO Hits
-http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
+https://ahmadabdullahrifat.shortcm.li/hbohits
 #EXTINF:-1 tvg-id="Sony Pix" tvg-name="Sony Pix" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/SonyPix" group-title="Movies",Sony Pix
 https://ahmadabdullahrifat.shortcm.li/sonypix
 #EXTINF:-1 tvg-id="Star Movies" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniBangla.png" group-title="Movies",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+https://ahmadabdullahrifat.shortcm.li/starmovies
 #EXTINF:-1 tvg-id="Star World" tvg-name="Star World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/StarWorld" group-title="Movies",Star World
-https://edge01.iptv.digijadoo.net//live/star_world/chunks.m3u8
+https://ahmadabdullahrifat.shortcm.li/starworld
 #EXTINF:-1 tvg-id="TV Western Movies" tvg-name="TV Western Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/TVWesternMovies" group-title="Movies",TV Western Movies
-http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+https://ahmadabdullahrifat.shortcm.li/tvwesternmovies
 #EXTINF:-1 tvg-id="Zee Cafe" tvg-name="Zee Cafe" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/ZeeCafe" group-title="Movies",Zee Cafe
-http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+https://ahmadabdullahrifat.shortcm.li/zeecafe
 
 #Kids
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://vignette.wikia.nocookie.net/animax/images/0/0b/Animax_logo.jpg/revision/latest/scale-to-width-down/157?cb=20080927021229" group-title="Kids",Animax
@@ -317,7 +313,6 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="DD Bangla" tvg-name="DD Bangla" tvg-logo="http://www.ddbangla.gov.in/templetes/templete1/logo/logo.jpg" group-title="News",DD Bangla
 https://streamhoichoi.multitvsolution.in/live/DDBangla-h/p4.m3u8
-#https://streamer-1.toffeelive.com/live/dd_bangla_720/index.m3u8
 #EXTINF:-1 tvg-id="News 18" tvg-name="News 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/News18_Bangla_logo.jpeg" group-title="News",News 18
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=/*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-id="TV24 Bangla" tvg-name="TV24 Bangla" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/10388196_1618153475103685_3208709105382628905_n.png?_nc_cat=104&_nc_sid=85a577&_nc_eui2=AeEPKnKTLjBbn2HAARpzthQChMUPwSxrJnuExQ_BLGsme8asolMRux1C9RY_s642s-zPup7NC0uwE8JLIwZGFXzd&_nc_ohc=lSgePKYhZ2MAX8YqGJd&_nc_ht=scontent.fdac74-1.fna&oh=1504272cde1b55abbe68b1bca28f5388&oe=5EB804BF" group-title="News",TV24 Bangla
